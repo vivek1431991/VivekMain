@@ -1,4 +1,4 @@
 # VivekMain
 Main repository for my project
-This is the main repository for myproject
+This is the main repository for myproject.
 This is myfirst edit
